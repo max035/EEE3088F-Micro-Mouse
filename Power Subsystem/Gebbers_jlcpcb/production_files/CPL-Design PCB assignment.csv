@@ -1,0 +1,13 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,4.7uF,CP_Radial_D4.0mm_P2.00mm,86.36,-82.252599,-90.0,top
+C2,4.7uF,CP_Radial_D4.0mm_P2.00mm,78.74,-82.252599,-90.0,top
+charging1,LED,LED_D3.0mm,104.14,-74.935,-90.0,top
+J1,Conn_01x02_Pin,JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical,100.6,-51.89,0.0,top
+J2,Conn_02x08_Counter_Clockwise_MountingPin,PinSocket_2x07_P2.54mm_Vertical,86.38,-52.05,-90.0,top
+R9,1K8,R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal,86.36,-76.2,180.0,top
+R10,1K,R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal,78.63,-76.2,180.0,top
+Rled1,1k,R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal,99.06,-66.04,-90.0,top
+Rprog1,2k,R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal,104.14,-66.04,90.0,top
+SW1,SW_Push,KSA_Tactile_SPST,96.52,-78.74,180.0,top
+U1,L293D,DIP-16_W7.62mm,86.36,-66.04,90.0,top
+U2,MCP73831T-2ACI/OT,SOT-23-5,102.7375,-60.01,180.0,top
