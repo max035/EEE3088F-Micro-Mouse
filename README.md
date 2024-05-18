@@ -38,4 +38,4 @@ The sensing subsystem has undergone rigorous acceptance testing to ensure its fu
 
 The results of the acceptance tests demonstrated the effectiveness of the design decisions and modifications made throughout the project, ensuring that the sensing subsystem meets the project's requirements and specifications.
 
-For more detailed information on the sensing subsystem design, testing, and results, please refer to the [project report](link/to/project/report.md).
+For more detailed information on the sensing subsystem design, testing, and results, please refer to the [project report](/Sensing%20Subsystem/Write%20Up/EEE3088F_final_report.pdf).
